@@ -1,4 +1,4 @@
-#Calorie Calculator
+# Calorie Calculator
 - This app calculates calorie consumption
 based on weight, gender, and physical activity
 - Learning objectives are:
